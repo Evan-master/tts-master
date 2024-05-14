@@ -1,0 +1,20 @@
+#  /data/www/dev-chitchat-backend/shared/configs
+
+App:
+  Addr: ":8086"
+  Mode: debug
+
+Handler:
+  OpenAIProxyHost1: "https://api.openai.com/v1/audio/speech"
+  OpenAIProxyHost2: "https://api.openai.com/v1/audio/transcriptions"
+  OpenAIToken:      ""
+  Timeout:          60
+
+
+Log:
+  FileDir: log
+  MaxSize: 100
+  MaxBackups: 5
+  MaxAge: 60
+  Compress: false
+  LocalTime: false

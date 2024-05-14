@@ -1,0 +1,147 @@
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] POST   /api/v1/tts               --> wisebase/internal/route/v1.(*Route).ttsHandler-fm (4 handlers)
+[GIN] 2024/02/17 - 17:10:11 | 400 |     195.542µs |             ::1 | POST     "/api/v1/tts"
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] POST   /api/v1/tts               --> wisebase/internal/route/v1.(*Route).ttsHandler-fm (4 handlers)
+[GIN] 2024/02/17 - 17:15:11 | 500 |  4.973127458s |             ::1 | POST     "/api/v1/tts"
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] POST   /api/v1/tts               --> wisebase/internal/route/v1.(*Route).ttsHandler-fm (4 handlers)
+[GIN] 2024/02/17 - 17:23:15 | 500 |  7.635007667s |             ::1 | POST     "/api/v1/tts"
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] POST   /api/v1/tts               --> wisebase/internal/route/v1.(*Route).ttsHandler-fm (4 handlers)
+[GIN] 2024/02/17 - 17:31:16 | 500 |  4.518905833s |             ::1 | POST     "/api/v1/tts"
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] POST   /api/v1/tts               --> wisebase/internal/route/v1.(*Route).ttsHandler-fm (4 handlers)
+[GIN] 2024/02/17 - 18:58:21 | 500 |  3.677646291s |             ::1 | POST     "/api/v1/tts"
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] POST   /api/v1/tts               --> wisebase/internal/route/v1.(*Route).ttsHandler-fm (4 handlers)
+[GIN] 2024/02/17 - 19:03:04 | 500 |  5.841408875s |             ::1 | POST     "/api/v1/tts"
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] POST   /api/v1/tts               --> wisebase/internal/route/v1.(*Route).ttsHandler-fm (4 handlers)
+[GIN] 2024/02/17 - 19:11:54 | 500 |  3.741979708s |             ::1 | POST     "/api/v1/tts"
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] POST   /api/v1/tts               --> wisebase/internal/route/v1.(*Route).ttsHandler-fm (4 handlers)
+[GIN] 2024/02/17 - 19:14:25 | 500 |  2.230296208s |             ::1 | POST     "/api/v1/tts"
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] POST   /api/v1/tts               --> wisebase/internal/route/v1.(*Route).ttsHandler-fm (4 handlers)
+[GIN] 2024/02/17 - 19:16:49 | 500 |  7.789360792s |             ::1 | POST     "/api/v1/tts"
+[GIN] 2024/02/17 - 19:17:55 | 500 |  2.778284333s |             ::1 | POST     "/api/v1/tts"
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] POST   /api/v1/tts               --> wisebase/internal/route/v1.(*Route).ttsHandler-fm (4 handlers)
+[GIN] 2024/02/17 - 19:22:35 | 200 |  4.811888209s |             ::1 | POST     "/api/v1/tts"
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] POST   /api/v1/tts               --> wisebase/internal/route/v1.(*Route).ttsHandler-fm (4 handlers)
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] POST   /api/v1/tts               --> wisebase/internal/route/v1.(*Route).ttsHandler-fm (4 handlers)
+[GIN] 2024/02/22 - 16:32:49 | 404 |       1.834µs |             ::1 | POST     "/api/v1"
+[GIN] 2024/02/22 - 16:33:42 | 200 |  2.783901583s |             ::1 | POST     "/api/v1/tts"
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] POST   /api/v1/tts               --> wisebase/internal/route/v1.(*Route).ttsHandler-fm (4 handlers)
+[GIN] 2024/02/22 - 17:09:19 | 200 |  3.130103167s |             ::1 | POST     "/api/v1/tts"
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] POST   /api/v1/tts               --> wisebase/internal/route/v1.(*Route).text2VoiceHandler-fm (4 handlers)
+[GIN] 2024/02/23 - 09:55:47 | 200 |  5.071697792s |             ::1 | POST     "/api/v1/tts"
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] POST   /api/v1/tts               --> wisebase/internal/route/v1.(*Route).text2VoiceHandler-fm (4 handlers)
+[GIN] 2024/02/23 - 10:25:23 | 200 |  3.450451208s |             ::1 | POST     "/api/v1/tts"
+[GIN] 2024/02/23 - 10:25:52 | 200 |  1.814507333s |             ::1 | POST     "/api/v1/tts"
+[GIN] 2024/02/23 - 10:48:27 | 400 |     389.916µs |             ::1 | POST     "/api/v1/tts"
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] POST   /api/v1/tts               --> wisebase/internal/route/v1.(*Route).text2VoiceHandler-fm (4 handlers)
+[GIN] 2024/02/23 - 10:55:06 | 200 |  3.571025292s |             ::1 | POST     "/api/v1/tts"
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] POST   /api/v1/tts               --> wisebase/internal/route/v1.(*Route).text2VoiceHandler-fm (4 handlers)
+[GIN] 2024/02/23 - 10:58:18 | 200 |  3.101568792s |             ::1 | POST     "/api/v1/tts"
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] POST   /api/v1/tts               --> wisebase/internal/route/v1.(*Route).text2VoiceHandler-fm (4 handlers)
+[GIN] 2024/02/23 - 11:00:21 | 200 |  2.864557042s |             ::1 | POST     "/api/v1/tts"
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] POST   /api/v1/tts               --> wisebase/internal/route/v1.(*Route).text2VoiceHandler-fm (4 handlers)
+[GIN] 2024/02/23 - 11:00:58 | 200 |  3.249449209s |             ::1 | POST     "/api/v1/tts"
+[GIN] 2024/02/23 - 11:14:28 | 200 | 19.820395541s |             ::1 | POST     "/api/v1/tts"
+[GIN] 2024/02/23 - 11:16:05 | 200 |     2.375662s |             ::1 | POST     "/api/v1/tts"
+[GIN] 2024/02/23 - 11:16:31 | 200 |      2.10357s |             ::1 | POST     "/api/v1/tts"
+[GIN] 2024/02/23 - 11:16:51 | 200 |  1.803181459s |             ::1 | POST     "/api/v1/tts"
+[GIN] 2024/02/23 - 11:17:04 | 200 |  3.440442334s |             ::1 | POST     "/api/v1/tts"
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] POST   /api/v1/tts               --> wisebase/internal/route/v1.(*Route).text2VoiceHandler-fm (4 handlers)
+[GIN] 2024/02/23 - 11:22:01 | 200 |  7.504921167s |             ::1 | POST     "/api/v1/tts"
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] POST   /api/v1/tts               --> wisebase/internal/route/v1.(*Route).text2VoiceHandler-fm (4 handlers)
+[GIN] 2024/02/23 - 11:24:36 | 200 |     7.551006s |             ::1 | POST     "/api/v1/tts"
+[GIN] 2024/02/23 - 11:26:45 | 200 | 13.880313375s |             ::1 | POST     "/api/v1/tts"
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] POST   /api/v1/tts               --> wisebase/internal/route/v1.(*Route).text2VoiceHandler-fm (4 handlers)
+[GIN] 2024/02/23 - 11:29:51 | 200 |  3.003298625s |             ::1 | POST     "/api/v1/tts"
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] POST   /api/v1/tts               --> wisebase/internal/route/v1.(*Route).text2VoiceHandler-fm (4 handlers)
+[GIN] 2024/02/23 - 11:41:14 | 200 |     9.659815s |             ::1 | POST     "/api/v1/tts"
